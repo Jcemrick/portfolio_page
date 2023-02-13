@@ -1,0 +1,20 @@
+.container {
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.title {
+    margin-top: 0;
+    font-size: larger;
+}
+
+.animation {
+    padding-top: 22px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.headerimg {
+    display: flex;
+}
